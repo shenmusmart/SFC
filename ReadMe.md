@@ -9,4 +9,4 @@ This is the example processing pipeline for the skew-based functional connectivi
 
 4. **Quantification of connectivity strength**: use the absolute sum of edge weights from the connectivity matrix between one channel and the other channels for epileptic tissue localization
 
-The manuscript entitled "Epileptic Tissue Localization through Skew-Based Functional Connectivity in High-Frequency Band" is currently under review in Frontiers in Neuroinformatics.
+The manuscript entitled **"Epileptic Tissue Localization through Skew-Based Functional Connectivity in High-Frequency Band"** is currently under review in *Frontiers in Neuroinformatics*.
