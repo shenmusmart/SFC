@@ -5,7 +5,7 @@ This is the example processing pipeline for the skew-based functional connectivi
 
 2. **Skewness extraction**: describe the asymmetry in the amplitude distribution between high-frequency oscillations (HFOs) / high-frequency activity (HFA) and background activity
 
-3. **Construnction of connectivity matrix** : capture the channel-wise asymmetry correlation across time based on Spearman rank correlation
+3. **Construction of connectivity matrix** : capture the channel-wise asymmetry correlation across time based on Spearman rank correlation
 
 4. **Quantification of connectivity strength**: use the absolute sum of edge weights from the connectivity matrix between one channel and the other channels for epileptic tissue localization
 
