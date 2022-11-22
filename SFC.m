@@ -11,12 +11,6 @@ ft_defaults
 
 %% load FieldTrip-style example data segment
 
-% load('D:\2022工作安排\code\multi-center\feature\bipolar_segments_pat_01_night_01_interval_01.mat')
-% 
-% cfg=[];
-% cfg.trials=2;
-% data_example= ft_preprocessing(cfg,bipolar_segments);
-
 load data_example.mat
 
 %% bandpass filtering in 80-500 Hz
