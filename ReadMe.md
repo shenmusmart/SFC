@@ -1,5 +1,5 @@
-# Skew-based functional connectivity (SFC)
-This is the example processing pipeline for the skew-based functional connectivity (SFC) analysis for epileptic tissue localization. SFC mainly include 4 steps:
+# Skewness-based functional connectivity (SFC)
+This is the example processing pipeline for the skewness-based functional connectivity (SFC) analysis for epileptic tissue localization. SFC mainly includes 4 steps:
 
 1. **Data processing**: include bandpass filtering in high-frequency band (80-500 Hz), notch filtering, envelope extraction;
 
@@ -9,4 +9,4 @@ This is the example processing pipeline for the skew-based functional connectivi
 
 4. **Quantification of connectivity strength**: use the absolute sum of edge weights from the connectivity matrix between one channel and the other channels for epileptic tissue localization
 
-The manuscript entitled **"Epileptic Tissue Localization through Skew-Based Functional Connectivity in High-Frequency Band"** is currently under review in *Frontiers in Neuroinformatics*.
+The manuscript entitled **"Epileptic Tissue Localization through Skewness-Based Functional Connectivity in High-Frequency Band of Intracranial EEG"** is currently under review.
